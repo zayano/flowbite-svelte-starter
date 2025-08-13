@@ -22,7 +22,7 @@
 				<div class="flex items-start">
 					<Checkbox>Remember me</Checkbox>
 					<a
-						href="/change_password"
+						href="/forgot_password"
 						class="ml-auto text-sm text-blue-700 hover:underline dark:text-blue-500"
 						>Forgot password?</a
 					>
